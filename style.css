@@ -68,7 +68,6 @@ form .change-color {
 
 @media  (max-width: 400px) {
     .calculator {
-        height: 90vh;
         padding: 10px;
     }
 
