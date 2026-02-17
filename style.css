@@ -43,11 +43,22 @@ form .display {
     margin : 20px 0;
 }
 
+#display {
+    width: 100%;
+    padding: 10px;
+    font-size: 22px;
+    text-align: right;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+
 form .display input {
     text-align: right;
     flex: 1;
     font-size: 45px;
     box-shadow: none;
+    
 }
 
 form .last-row .equal {
@@ -69,6 +80,10 @@ form .change-color {
 @media  (max-width: 400px) {
     .calculator {
         padding: 10px;
+    }
+
+    #display {
+        font-size: 18px;
     }
 
     .calculator form input {
