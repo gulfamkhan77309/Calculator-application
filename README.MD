@@ -7,7 +7,7 @@ A simple and responsive Calculator web application built using HTML, CSS, and Ja
 ## LIVE DEMO :-
   https://gulfamkhan77309.github.io/Calculator-application/
 
-  calculator-application-self.vercel.app
+  https://calculator-application-self.vercel.app/
   
 ---
 
